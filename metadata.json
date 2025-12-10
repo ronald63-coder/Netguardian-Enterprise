@@ -1,0 +1,5 @@
+{
+  "name": "NetGuardian ML Enterprise",
+  "description": "An AI-powered network security platform featuring real-time threat detection visualization, WAF management, and a Gemini-powered security analyst chat interface.",
+  "requestFramePermissions": []
+}
